@@ -1,6 +1,6 @@
 # DataManagement_BookingSystem
 
-This project is to simulate the booking system of a health check institution, create different modules, establish connections and let the system complete the relevant records for the consumer module, doctor module, and booking information module through interaction.
+This project is to simulate the booking system of a health check institution based on MySQL, create different modules, establish connections and let the system complete the relevant records for the consumer module, doctor module, and booking information module through interaction.
 
 Conceptual Model：<br />
 CUSTOMER (**Account_ID**, SSN, Name, Gender, Contact_info, *Staff_id*)<br />
